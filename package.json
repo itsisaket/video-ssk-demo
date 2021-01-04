@@ -1,0 +1,16 @@
+{
+  "name": "video-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery-clipchamp-mjpeg-player-plugin": "0.0.1",
+    "streamedian": "git://github.com/Streamedian/html5_rtsp_player.git"
+  }
+}
